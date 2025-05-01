@@ -20,7 +20,7 @@ A React-based frontend-only app for patient registration and querying using PGli
    npm start
    ```
 
-4. Open `http://localhost:5173` in your browser.
+4. Open `http://localhost:5173` in your browser. **Note:** For better usage, use either Google Chrome or Brave.
 
 ## Usage
 
